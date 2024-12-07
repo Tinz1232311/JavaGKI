@@ -1,0 +1,2 @@
+1, BHXH01, Le Van A, 2023-04-01, 090567890, abc@gmail.com, true, 0498765
+2, BHYT02, Le Van B, 2023-04-01, 090567890, none, false, 0198765
